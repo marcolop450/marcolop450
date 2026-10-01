@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="980" height="510" viewBox="0 0 980 510" font-family="Consolas, 'Cascadia Code', 'SF Mono', Monaco, Menlo, 'Courier New', monospace">
+  <!-- Fondo de la tarjeta -->
+  <rect x="0.5" y="0.5" width="979" height="509" rx="10" fill="#0d1117" stroke="#30363d"/>
+
+  <!-- Barra superior -->
+  <circle cx="22" cy="18" r="5" fill="#ff5f56"/>
+  <circle cx="38" cy="18" r="5" fill="#febc2e"/>
+  <circle cx="54" cy="18" r="5" fill="#28c840"/>
+  <text x="490" y="22" fill="#6e7681" font-size="11px" text-anchor="middle">marcolop450@github</text>
+  <line x1="0" y1="34" x2="980" y2="34" stroke="#21262d" stroke-width="1"/>
+
+  <!-- Arte ASCII corregido -->
+  <g font-size="8.8px" fill="#8b949e">
+    <text x="20" y="56.0" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="65.6" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="75.2" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="84.8" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="94.4" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="104.0" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="113.6" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="123.2" xml:space="preserve">----------------------------..................----------------------------</text>
+    <text x="20" y="132.8" xml:space="preserve">--------------------@@--.......------------.......------------------------</text>
+    <text x="20" y="142.4" xml:space="preserve">-------------------@@@@@..----------------+++++++++++++++++---------------</text>
+    <text x="20" y="152.0" xml:space="preserve">-------------------@@@@------------++++++----------....--++++-------------</text>
+    <text x="20" y="161.6" xml:space="preserve">------------------=============--++####+  ----------/...----+++-----------</text>
+    <text x="20" y="171.2" xml:space="preserve">------------=====...----------++-++#####      ----//*-....---++-----------</text>
+    <text x="20" y="180.8" xml:space="preserve">---------====--...---------++---++#########    +//***---...--+++----------</text>
+    <text x="20" y="190.4" xml:space="preserve">-------===----...-------+++----++#############//***/+----...-+++----------</text>
+    <text x="20" y="200.0" xml:space="preserve">------===----...------++------++############//***//+@=----...++-----------</text>
+    <text x="20" y="209.6" xml:space="preserve">------===----...----++--------+###########//***//#+----==-...++-----------</text>
+    <text x="20" y="219.2" xml:space="preserve">-------==---...---++---------+#########//****//##+--------==++------------</text>
+    <text x="20" y="228.8" xml:space="preserve">-------===--...--++---------+%%######//****/####+----------++=------------</text>
+    <text x="20" y="238.4" xml:space="preserve">--------===-...++----------+%%%%%%//****//#####+----------++..==----------</text>
+    <text x="20" y="248.0" xml:space="preserve">----------==..++----------+%%%%//*****//######+----------++...-===--------</text>
+    <text x="20" y="257.6" xml:space="preserve">------------=++----------+%///*****//%%%%%%##+---------++--...--===-------</text>
+    <text x="20" y="267.2" xml:space="preserve">------------++==--------+/******//%%%%%%%%%%+---------++---...---==-------</text>
+    <text x="20" y="276.8" xml:space="preserve">-----------++...-==----+%****//%%%%%%%%%%%%+--------++----...----===------</text>
+    <text x="20" y="286.4" xml:space="preserve">-----------++...--oooo+%%///%%%%%%%%%%%%%%++------++------...----===------</text>
+    <text x="20" y="296.0" xml:space="preserve">----------+++-...oooo++%%%%=%%%%%%%%%%%%%++----+++-------...----===-------</text>
+    <text x="20" y="305.6" xml:space="preserve">----------+++--..ooooo--++======%%%%%%%%++---++---------...--====---------</text>
+    <text x="20" y="315.2" xml:space="preserve">-----------++---....--------=======%%%%++-++----------...=====------------</text>
+    <text x="20" y="324.8" xml:space="preserve">-----------+++----...-----------==+%%%%++--=============------------------</text>
+    <text x="20" y="334.4" xml:space="preserve">-------------++++--....----------++++++------------....-------------------</text>
+    <text x="20" y="344.0" xml:space="preserve">---------------+++++++++++++++++----------------....----------------------</text>
+    <text x="20" y="353.6" xml:space="preserve">------------------------.......------------.......------------------------</text>
+    <text x="20" y="363.2" xml:space="preserve">----------------------------..................----------------------------</text>
+    <text x="20" y="372.8" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="382.4" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="392.0" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="401.6" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="411.2" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="420.8" xml:space="preserve">--------------------------------------------------------------------------</text>
+    <text x="20" y="430.4" xml:space="preserve">--------------------------------------------------------------------------</text>
+  </g>
+
+  <!-- Ficha tecnica -->
+  <g font-size="13px">
+    <text x="515" y="68" fill="#58a6ff" font-weight="bold" font-size="14.5px">marcolop450@github</text>
+    <line x1="515" y1="80" x2="945" y2="80" stroke="#30363d" stroke-width="1"/>
+
+    <text x="515" y="106" xml:space="preserve"><tspan fill="#d29922">OS:</tspan><tspan fill="#484f58"> ........ </tspan><tspan fill="#c9d1d9">Santa Cruz, Bolivia</tspan></text>
+    <text x="515" y="130" xml:space="preserve"><tspan fill="#d29922">Role:</tspan><tspan fill="#484f58"> ...... </tspan><tspan fill="#c9d1d9">Software Engineering Student</tspan></text>
+    <text x="515" y="154" xml:space="preserve"><tspan fill="#d29922">Studies:</tspan><tspan fill="#484f58"> ... </tspan><tspan fill="#c9d1d9">Informatics Engineering - UAGRM FICCT</tspan></text>
+    <text x="515" y="178" xml:space="preserve"><tspan fill="#d29922">Stack:</tspan><tspan fill="#484f58"> ..... </tspan><tspan fill="#c9d1d9">Java, C++, C#, Python, Delphi, VB</tspan></text>
+
+    <text x="515" y="214" xml:space="preserve"><tspan fill="#d29922">Interests:</tspan><tspan fill="#484f58"> . </tspan><tspan fill="#c9d1d9">Mobile Apps, Clean Code, AI</tspan></text>
+    <text x="515" y="238" xml:space="preserve"><tspan fill="#d29922">Languages:</tspan><tspan fill="#484f58"> . </tspan><tspan fill="#c9d1d9">Spanish (Native), English (A2)</tspan></text>
+    <text x="515" y="262" xml:space="preserve"><tspan fill="#d29922">Hobbies:</tspan><tspan fill="#484f58"> ... </tspan><tspan fill="#c9d1d9">Gaming, Music, Tech</tspan></text>
+
+    <text x="515" y="304" fill="#58a6ff" font-weight="bold">&gt; Contact</text>
+    <text x="515" y="328" xml:space="preserve"><tspan fill="#d29922">Email:</tspan><tspan fill="#484f58"> ..... </tspan><tspan fill="#c9d1d9">marcolop450@gmail.com</tspan></text>
+    <text x="515" y="352" xml:space="preserve"><tspan fill="#d29922">GitHub:</tspan><tspan fill="#484f58"> .... </tspan><tspan fill="#c9d1d9">github.com/marcolop450</tspan></text>
+
+    <text x="515" y="394" fill="#58a6ff" font-weight="bold">&gt; GitHub Stats</text>
+    <text x="515" y="418" xml:space="preserve"><tspan fill="#d29922">Repos:</tspan><tspan fill="#484f58"> ..... </tspan><tspan fill="#c9d1d9">14 {Public}</tspan>          <tspan fill="#484f58">|</tspan>   <tspan fill="#d29922">Status:</tspan> <tspan fill="#7ee787">Active</tspan></text>
+  </g>
+
+  <!-- Paleta terminal -->
+  <g transform="translate(515, 458)">
+    <rect x="0" y="0" width="28" height="12" rx="3" fill="#ff7b72"/>
+    <rect x="34" y="0" width="28" height="12" rx="3" fill="#ffa657"/>
+    <rect x="68" y="0" width="28" height="12" rx="3" fill="#d29922"/>
+    <rect x="102" y="0" width="28" height="12" rx="3" fill="#7ee787"/>
+    <rect x="136" y="0" width="28" height="12" rx="3" fill="#58a6ff"/>
+    <rect x="170" y="0" width="28" height="12" rx="3" fill="#bc8cff"/>
+    <rect x="204" y="0" width="28" height="12" rx="3" fill="#f0f6fc"/>
+  </g>
+</svg>
