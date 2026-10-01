@@ -1,4 +1,3 @@
-# Marco Alejandro Lopez Velasquez
 
 <div align="center">
   <img src="./profile.svg" alt="Marco Lopez Profile" width="100%" />
